@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ==================== App / Splash ==================== -->
+    <string name="app_name">TheStory</string>
+    <string name="app_title">The Story</string>
+
+    <!-- ==================== Chapters list ==================== -->
+    <string name="chapters_title">The Story</string>
+
+    <!-- ==================== Chapter detail ==================== -->
+    <string name="the_end_title">The End… For Now</string>
+    <string name="the_end_message">Our story is still being written — one beautiful day at a time.</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_heart">Heart</string>
+    <string name="cd_lottie_animation">Animation</string>
+
+    <!-- ======================================================= -->
+    <!-- THE STORY — replace every chapter_title / chapter_subtitle   -->
+    <!-- chapter_date / chapter_epigraph / chapter_body below with    -->
+    <!-- YOUR words. This is just the skeleton of your love story.    -->
+    <!-- ======================================================= -->
+
+    <!-- ==================== Chapter 1 ==================== -->
+    <string name="chapter_one_title">Hello 👋</string>
+    <string name="chapter_one_body">Hello Nikita 👋, I don\'t know mai ye likh raha hoon wo tuze kabhi me
+        bhejunga ya nahi, but in case maine himmat karke bhej diya hai agar, so padhna pura .. like jitna
+        bhi aaj tak maine tuze bola hai na ki abhi nahi baadme batunga ya fir kabhi milke bataunga ... wo sab
+        tuze isme milega 😊. I don\'t know tere liye kucch importance hai bhi ya nahi iska ... but I hope
+        tu padhegi, waiase ai ye kafi samay se likhte aaya hoon, kabhi kabhi lagta hai ki jaldi hi de
+        deta to accha hota and kabhi kabhi lagta hai ki na hi doon to accha ... so I don\'t know. But
+        agar mila hai to rakhna apne pass apne phone me and padhna jarur 😊.</string>
+
+    <!-- ==================== Chapter 2 ==================== -->
+    <string name="chapter_two_title">First Time 🤞</string>
+    <string name="chapter_two_body">So aaj tak maine tuze hamesha bola tha ki apna first interaction
+        tab hua jab maine tuze youtube ke song ka link bheja tha and tune samne se apna introduction diya tha right.
+        But actually apna interaction uske bohot bohot pehele hua tha 🤭. To dekh pehele to mai qpna background batata hoon warna
+        tu isme bhi samjhegi ki jaan bujkar hua tha ye bhi 😂. To actually jab mai pune me aaya tha na, mai extrememly focused banda tha,
+        jaise mai wahise sochke aaya tha ki college me jayenge and then first year me apne ko basic to expert programming karna aa jayega
+        then 2nd year me apan microsoft ya facebook jaisa kucch bana lenege and third year me usko bada karenge ... and 4th year tak
+        to millioniere 😎. Soch ye mera plan tha college me aane ka wo bhi raisoni me 😂. Matlab muze itna advanced lagta tha ki
+        engineering me sab log microsoft banana to sikh hi jate honge 😂. Anyways so basically mai keh raha tha ki main ekdum full
+        motivated tha aaya yahape and ye girlfriend vagaire ka to chakkar karna hi nahi hai aisa tha ... so kya hua starting wale
+        dino me dekh sab logo ko sath me bithate the like jitne bhi log hai jis bhi branch ke hai sab ko sath me hi bithate the,
+        to uss time pe mai, Rohan aur Raj sath me baithe the and hamari dosti hogayi thi. So next day bhi hum aaye and sath me hi
+        baithe to tab sab aaju baju wale milke hai na dhundh rahe the ki Sundar ladkiya kon kon hai apne college me 🤭. And so usme Raj
+        ne Aishwarya Manmode ko dikhaya tha 😂 and tu uss time pe just hamare side wale hi bench pe baithi thi. To I think Rohan
+        ne teri teri taraf dikhaya ki ye bhi ek sundar hai 😄. To tu to side wale hi bench pe thi to maine usse bola are ye to yahipe
+        hai .. so isse baat kar jake ... hojayegi dosti. To wo bola nahi baba itni himmat nahi hai muzme and fir sab log usse chidane
+        lage the ki fattu hai aisa waisa 😂. So usne muze bola ki acha tu itna bol raha hai to tu karke dikha na baat. And tab jaise ki
+        mai bola muze koi interest nahi tha ki kucch hojaye ya nahi .. to mai bola thik hai isme kya simple hai bohot .. and maine
+        kya kiya Rohan ka Pen aise thoda dhakka deke tere bench ke pass gira diya 😜. And then tera dhyan gaya wahape ro bola sorry and tune
+        sirf bola smile karke no problem and de diya pen uthake. And bataya usse dekh isme kya itna. Ab ye me tab isliye kar paya kyuki muze koi interest hi nahi tha
+        ki tu kucch bol bhi deti to mai bhi return me kucch bolta aisa tha ... and fir baki log bolne lage the are bhai tu to khatarnak hai bole 😂. So koi nai aisa chhotasa interaction
+    just apna pehele bhi ho chuka tha ye bata raha tha so technically that was our first interaction. Jab mue kucch bhi nahi pata tha tu kon hai kya hai kaisi hai and probably
+    I think wo college ka intial 4th 5th day hi hoga. Actually ye mai kyu bata raha hoo, kyuki ek baar apan aise hi phone pe baate kar rahe the and
+    uss time tune muze puccha tha ki apan first time kab mile the so tab maine tuze bataya tha ki maine link bheji thi and all and but tune muze bataya
+    tha ki uske pehele bhi mile then apan maine puccha kab so tu boli thi ki apni wo ek maths ki mam thi uske pass tu paper ke marks badhane aaya tha and tu wahipe baithi thi
+    tab apan mile the bole first time 2nd year me hi. Ab ye actually muze khudko hi pata nhi tha aisa kab hua tha 😅. But muze khushi huyi like tune
+    aisi koi chiz mere baare me yaad rakhi thi ye sochke 🤭.</string>
+
+    <!-- ==================== Chapter 3 ==================== -->
+    <string name="chapter_three_title">Before First Interaction 🫣</string>
+    <string name="chapter_three_body">So first year me to apni divisios hi alag alag thi so tab koi dost vagaire to nahi the, and Raj, Rohan vagaire ye hi log the hamesha sathme and ere room mates, even hostel me bhi koi dost nahi tha, and jab second
+    year start hua to bola ki abhi humari division hi change ho rahi hai to hum log itna khush nahi the but anyways bola kya kar sakte hai but 4 5 days me hi comfortable hogaye the fir iss class me aaye tab. And fir second year me aaye tab kya hua
+    ki dheere dheere then Mayur Patil, Tushar, Mayur Mahajan in sab se dosti huyi, and tab wo bohot matlab bohot hi jyada pubg khelte the 😅, matlab dusra kucch chal hi nahi raha tha uss time pe
+    so tab ek din kya hua ki I think for some reason Mayur Mahajan ko humne tere sath baat karte dekh liya tha 😂. Matlab bichara kucch ekdum short conversation kar raha tha
+    regarding exam or something kyuki wo tere hi batch me tha practical me, and bassss fir kya 😂, humare samne ladki se baat karte huye hamare group ka banda dikha
+    to hum kaha usse chhodne wale the 😜. To tabse humne usse tere naam se chidana chalu kar diya, abhi isme bhi scene kya hai pata hai, starting me muze pata hi nahi tha
+    ki isse Nikita karke chidate hai to Nikita actually me hai kon 😂, so mai shayd uss din gharpe hi tha muze aake log bol rahe the ki arre ye aisa aisa baat karte huye pakda gaya
+    ek ladki ke sath uska naam Nikita hai ... bass fir muze kya muze bhi mil gaya ek person apne group me chidane ke liye and maje ki baat ye ki muze kucch dino tak pata hi nahi ki wo ladki kon hai 😂 ..
+    mai bass naam leke usko chidata tha, ab wo samnese bolta tha are aisa kucch nahi hai ... aisa kucch nahi hai log aise hi bol rahe hai ... par hum nahi rukte the. So in between kya hua tha
+    Wo jo Sudnyan tha, wo ek baar hum logo ke sath baitha tha and hum aise hi baate kar rahe the =, so itne me usne humse kaha teri taraf ishara karke, ki wo jo ladki hai na
+    uska and mera chakkar chalu hai, ab iss case me usne naam nahi bataya but sirf teri taraf batake dikhaya and mai matlab ussi time pe bola .. matlba tab to kucch jaan na pehchan
+    thi apni .. but just teri taraf dekh ke hi bola... are wo .. lagta nahi tha muze uski taraf dekhke ki wo aisi hogi karke 😅. To wo Sudnyan bola tha .. nahi re wo aisi sajjan dikhti hai but
+    bola meri baaate chalti na usse ... wo nahi hai waisi and hamara last 3 months se chalu hai .. mai bola sahi hai bhai. And tabse mere dimag me thodi teri tasveer aisi negative ban gayi thi .. pata nahi
+    muze hamesha se lagta tha .. matlab normal tera behaviour dekhke teri baate dusrose dekhke, tere teachers ke sath interactions dekhke ki yr aisi to nahi hogi ye 😅. But ab bol raha tha wo jo pehechanta tha
+    to mai bolta tha hoga .. ab apne ko to nahi pata. \n
+    Uske baad ek din Mayur Patil ko maine puccha are ye apan Mahajan ko itna chidate hai .. wo ladki kon hai ... and usne dikhaya tha muze ki wo tu hai karke 😂. And mai usse puccha are bhai ye ladki .. matlab
+    ye hogi kya interested mahajan me, to wo tab bola tha ki are actually pata hai kya jab bole sab ke introductions huye the class chalu huye tab and iska number aaya tha tab ye kafi emotional huyi thi and boli thi
+    ki matlab wo yaha kyu aayi hai and usse matlab usko kya banna hai and bilkul baki chizo me nahi padna. So bola wo bohot sidhi ladki lagti hai bole 😅. And mai tab bola mann me hi mann me ki muze laga hi tha kyuki
+    isse dekhke aisa lagta nahi ki matlb aisa relationship vagaire wali hogi ye. To tab wo bhi bola haa bole waisi ladki nahi hai wo. To for a short time muze laga dekho meri victory hogayi 😂 kyuki maine jisse jaisa socha tha wo waisi hi hai 🤭. Matlab
+    as such kucch lena dena nahi tha tuzse tab bhi mera but just yu hi ki bhai apne insticts barabar rehe hai ye sochke.\n
+    Uske baad ye jyada lamba nahi chala ... kyuki fir aise hi hum mahajan ko fir roj chidate the ki wo teri taraf dekh rahi hai.. and lagta hai usse tu pasan hai aisa waisa kuch bhi bolke 😂
+    and fir ek din aise hi mahajan ko chidate waqt wahape Sudnyan aaya and usko humne puccha ki abhi bhi chal raha hai kya tumhara ... to wo bola thoda jhagda hua hai bole isliye abhi baat nahi kar rahe hum ...
+    to mai Mayur Patil ko bola wo jane ke baad .. dekha kya ye fekte reheta ki iska chal raha hai vagaire ... tab wo muze bolta hai ... are nahi usne muze bhi bola tha ... I think wo dono raat ko roj 2-2 3-3 ghanta baate karte hai bole
+    .... and mai firse shock 😅. Wo bhi bola ha na bole muze bhi lagta nahi tha aisi hogi wo ... but actually me usko ye sab sudnyan ne hi bataya tha and usne maan bhi liya tha. To tabse fir teri image mere dimag me to full bad girl wali ban gayi thi 😅.
+    Matlab aisi ki bhai kucch bhi hojaye isse baate waate nahi karni 😂 ... kyuki pata nahi tab mera mindset aisa tha ki relationship karne wale muze aise hi bekar log lagte the 😅. \n
+    Ab aisa mat samjh lena ki hum sab kya din bhar teri hi baate karte rehete the kya 😂. Aisa nahi hai but tuze tere baare jitni hoti thi wo bata raha hoon ... actually mahajan ko chidate the na tere naam se to isliye baate
+    hoti reheti thi. So basically iss sab chizo se mere dimag me tere baare me sab kucch negative tha.</string>
+
+    <!-- ==================== Chapter 4 ==================== -->
+    <string name="chapter_four_title">Meeting Your brother 🏵️</string>
+    <string name="chapter_four_body">Abhi second year me first term hone ke baad kya scene tha pata hai kya ... ki Raj Shruti and Vaishnavi ka bohot close friend ban gaya tha ... and usse fir hum sba log fir Vaishanvi ke naam se
+    chidane lage the ... so unki wajah se uski tere sath bhi dosti ban gayi thi and wo mera roommate hi tha tab .. to pata nahi kyu but wo bola tha ki actually muze hamesha se ek
+    little sister chahiye thi ... wo Nikita se jab baat ki na to wo aise hi muze apni chhoti behen jaisi lagi muze bole wo. And tab se fir wo yahi bolta tha ki wo meri chooti behen hai.
+    And fir tum chaaro bohot baar sath dikhte the .. kabhi cafe me jate the tab dikhte the ... to tab tak humne Mahajn ko itna jyada chidana chalu kar diya tha 😂 .. like initially muze nahi lagta ki usse tu koi
+    pasand thi .. but humne itni baar usko jaha bhi jata tha tera naam uske dimag me daal diya ki ek din usne bol hi diya ki haa muze pasand hai wo 😂. And humne bola Victory 💥💥. Ab to officially bol diya hai
+    ki pasand hai ... to ab to pehele to abhi mana nahi kar sakta 😂 and dusra abhi iski kaise na kaise baat karani hogi so who better than Raj 😜.\n
+    Fir kya humne bola Raj ko and wo bhi bola haa mai karata kucch na kucch karke baat ... and hamara tab fir ek hi mission chalu hogaya 😂 ki Nikita ki Mahajan se baat Karani hai bass. So ye Raj ne Shruti and Bajaj ko
+    bhi bata diya tha and fir 2 3 din baad 1 plan bana unka and wo sab hume bhi batata tha .. so plan aisa bana ki Raj bola mai aur Shruti and Vaishanvi cafe jayenge and wo dono tuze bolenge ki chal hamare sath aise hi jaate hai
+    and yahase Mahajan ko Raj aise hi apne sath leke aayega and fir uss din Mahajan ko humne ekdum full tayyar karke scent went marke bheja 😂.. wo bichara bohot darr raha tha and then still mai to full motivate karta tha usse 😂. Then
+    finally tum dono mile wahape, accha wahape bhi in logo pura setup karke rakha tha .. kaise pata hai ... 5 chairs the to Raj Shruti and Vaishanvi pehele hi jaake samne wale 3 seats pe baith gaye the
+    so that tum dono baju baju me aa sako 😂. To waisa hi hua tum aaye and pure time ke conversation me sab kucch hua bass mahajan ne tuzse baat hi nahi ki 😂😂 ... and aake hume Raj pura kissa bata raha tha bola
+    are hum pura try kar rahe the par ye kucch bola hi nahi .. kyuki hum bole uska to thik hai Nikita ka kyuki usse to kucch pata hi nahi hai ki kya sab chal raha hai
+    to initiative to tuze hi lena tha na .. wo bhi nahi liya kucch kya fayda 😂. \n
+    Accha but isme bass ek chiz usne himmat karke kari hamare kehene par 😂, ki Raj se tera no liya and humne bola abhi to cafe me baat bhi karke aaya hai so whatsapp pe bhi baat chalu karde
+    and wo usme bhi dar raha tha bolta tha are kya karu usko kya lagega vagaire aisa waisa ... but finally usne Hi .. dala tuze and bola muze assignments chahiye thi 😂😂 and tera reply tha ki mere pass nahi hai 🤣.
+    And uss waqt wo harek message humse pucchke hi karta tha tuze ki kya dalu ... kya reply aayega, to tab aise hi baate karte karte tune usse aise hi pucch liya tha ki so teri koi GF hai, and usne bola nahi hai
+    and reply me turant usne bhi puccha ki tera koi BF hai and tune usko bol diya YES haiiii ... and wo tere gaon ka ladka hai ... 😂. Bass fir kya ... bichare mahajan ne itni puri mehnat jo ki wo puri paani me
+    accha iske pehele bhi tune Raj ko bhi aisa batake rakha tha ki tera BF hai but hum bolte the ki majak kar rahi hogi ... but jab tune Mahajan ko bhi same chiz bataya to Mahajan to full depressed 😂. Still hum usse motivate kar rahe the
+    ki are ladkiyon ka to chalta reheta aisa waisa .. unko agar accha option mila to wo kyu chhodenge so tu accha option hai ye usko samjhega to uske sath breakup kar legi 😂.\n
+    Aur fir tuze ye Raj ne bhi puccha tha and tune usko firse bataya tha ki yes tera already hai BF tere gaon me. So isse at least mere dimag to tu puri khatam ladki ban gayi thi 😂. Kyuki tu bol rahi thi
+    ki tera wahape already hai and yahape Sudnyan bol raha tha ki uske sath bhi chal raha hai ... so 2 ladko ko ghuma rahi hai aisi ladki ban gayi thi mere dimag me. Matlab sab kucch strong negative tha, actually pata nahi tab
+    bhi muze samjhme nahi aata tha ... mai tab bhi bolta tha yr pata nahi par isko dekhke bilkul lagta nahi ki ye aisi hogi 😅 but ab itne log bol rahe hai so maybe could be, to tere baare me sab waisi hi baate karte the tab.\n
+    But in sab me bass Raj ko mil gayi thi chhoti behen uski and wo khush tha usse 😄.</string>
+
+    <!-- ==================== Chapter 5 ==================== -->
+    <string name="chapter_five_title">The Valentine Week Fun 🎀</string>
+    <string name="chapter_five_body">Aise hi sab chal raha tha mast maje lene chalte the hamare tum log, I mean tu ,Raj, Mahajan, Shruti and Bajaj tum log 2 3 baar cafe me jake aaye the and 1 kissa wo bhi hua tha ki tum log wo Gathering and dance
+    dekhne kahipe gaye the apni university ka and aate waqt tu akeli thi so tune Raj ko puccha tha sath chalne ko and Raj mahajan ko leke aaya tha 😂. And wo khud jaldi jake aage baith gaya
+    tha so that tum dono picche baith ke baate kar sako ... but wo bhi plan fail gaya tha 😂. Kyuki aake Raj bola sala 2 ghate ki ride me in dono ne dekha bhi nahi ek dusre ki taraf
+    muze hi mud mud ke baate karni padi 😂. To hume to samajh me aa gaya tha inka kucch nahi ho sakta hai ... but fir bhi maje karne ke liye hum chidate hi rehete the usse and haa iske badle
+    me Raj, Shruti and Bajaj ke sabhi bills mahajan pay karta tha har baar 😅. Bichare ke paise bohot gaye in chizo me.\n
+    Ha so uske baad valentine week aaya tha, and first dat Rose day tha to uske liye humne Mahajan ko pura tayyar karke rakha tha ki tuze kal himmat karke Rose dena hai. Wo bhi hamare
+    samne na darne ki acting karta tha and bolta tha haa kal deke usse bata hi dunga bolta tha and Raj bolta tha are tu chinta mat kar mai rahunga na but usse bhi pata tha ki tu legi nahi ... to isliye
+    usne tuze pehele hi bol kar rakha tha ki mahajan tuze dega to please just accept kar lena aise hi fun me otherwise wo bohot dukhi ho jayega 😅. Tune bhi ha-na, ha-na karke finally bola tha thik hai
+    kar lungi, kyuki tuze uska dil nahi dukhana tha baad me jake. But still tu boli thik hai fun way me kar lungi, ab hum sab excited the ki kya hone wala hai kal Rose day ke din. But last day I mean uske pehele din
+    Raj raat ko achanak muze bolta hai .. ki abe yr tuze pata hai kya wo mahajan sahi ladka nahi hai bole Nikita ke liye, mai bola kyu bhai dost hai apna
+    itna accha ladka to hai ... wo bolta are haa ladka to accha hai but uske liye sahi nahi hai. Mai puccha fir bhai kon lagta tuze uske liye accha ladka, to usne achanak se kya soch ke bola pata nahi .... par bola
+    tu lagta bole muze uske liye acccha ladka ... and mai itna zor se hasne laga 😂😂. Mai bola bhai matlab tuze subah se mai hi mila tha kya ye sab ke liye and wo bola tha nahi tu sirf bol
+    tuze pasand hai kya wo tu uske nliye perfect hai bole .. mai bola bhai soja tu teri neend nahi huyi hai bola 😂. Tab pata nahi kahase uske dimag me aa tapka ye sab but aise hi hamari baat huyi and
+    then hum so gaye.\n
+    Fir next day Rose day ke din maja aaya tha, tab hume achanak se pata chala tha ki Tushal Kulwade bhi tuze Rose dene ki tayyari me tha jab ki uska already chal raha tha Vishakha ke sath 😅 but diya nahi tha usne, meri tab
+    competition thi NFS ki unhone tab organize ki thi, and after that hum jab aaye tab hume samjha tha ki tum logo ka hogaya tha Rose day 😂 and wo bhi khatarnak way me hua tha
+    like usne Rose diya and tune accept karke kaha ki Raj ne bola hai isliye accept kar rahi hoon kyuki jaisa maine tuze bataya hai ki mera laready hai ek 🤣. Mahajan aake bolta muze samjh nahi aaya ki
+    mai khush ho jaun ki mera accept kar liya .. ya dukhi hou ki ye bolke kiya hai ki Mera already hai ek so just raj ke kehene pe kar rahi hoon 😂😂.\n
+    Uske baad same tera birthday tha 26th feb ko tab bhi tum log gaye the party ke liye still kucch baat nahi huyi thi.\n
+    So ye sab kucch ab tak jo pura bataya ye wo sab hai jab apana kucch interaction nahi hua tha na tu muze janti thi na mai tuze personally janta tha , just what was my perception built around you wqo ye tha
+    and it was fairly very negative, like ye bhi chize bolte the log ki bohot ego hai isme, kisise jyada baat nahi karti so all of that basically ab tak accha kucch bhi nahi pata tha tere baare me.</string>
+
+    <!-- ==================== Chapter 6 ==================== -->
+    <string name="chapter_six_title">Our First Interaction</string>
+    <string name="chapter_six_body">So our real story starts here, </string>
+</resources>

@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A soft rose heart, centered in the adaptive-icon safe zone -->
+    <path
+        android:fillColor="#F26D85"
+        android:pathData="M54,78 C48,72 28,58 28,41 C28,31 35,25 43,25 C48,25 52,28 54,32 C56,28 60,25 65,25 C73,25 80,31 80,41 C80,58 60,72 54,78 Z" />
+    <path
+        android:fillColor="#F4A9B8"
+        android:fillAlpha="0.55"
+        android:pathData="M40,34 C37,34 34,37 34,41 C34,44 36,47 38,50 C36,44 37,38 40,34 Z" />
+</vector>

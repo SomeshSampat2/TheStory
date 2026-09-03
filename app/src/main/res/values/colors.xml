@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="story_ink">#FF1A1023</color>
+    <color name="story_surface">#FF241630</color>
+    <color name="story_surface_high">#FF2E1C3C</color>
+    <color name="story_rose">#FFF26D85</color>
+    <color name="story_rose_deep">#FFD14D67</color>
+    <color name="story_blush">#FFF4A9B8</color>
+    <color name="story_cream">#FFF7EDE2</color>
+    <color name="story_lavender">#FFB8A3C9</color>
+    <color name="story_gold">#FFE8C57C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

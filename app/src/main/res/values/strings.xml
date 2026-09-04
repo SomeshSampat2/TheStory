@@ -142,4 +142,40 @@
     <!-- ==================== Chapter 6 ==================== -->
     <string name="chapter_six_title">Our First Interaction</string>
     <string name="chapter_six_body">So our real story starts here, </string>
+
+    <!-- ==================== Chapter 7 ==================== -->
+    <string name="chapter_seven_title">Chapter 7 ✨</string>
+    <string name="chapter_seven_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 8 ==================== -->
+    <string name="chapter_eight_title">Chapter 8 ✨</string>
+    <string name="chapter_eight_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 9 ==================== -->
+    <string name="chapter_nine_title">Chapter 9 ✨</string>
+    <string name="chapter_nine_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 10 ==================== -->
+    <string name="chapter_ten_title">Chapter 10 ✨</string>
+    <string name="chapter_ten_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 11 ==================== -->
+    <string name="chapter_eleven_title">Chapter 11 ✨</string>
+    <string name="chapter_eleven_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 12 ==================== -->
+    <string name="chapter_twelve_title">Chapter 12 ✨</string>
+    <string name="chapter_twelve_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 13 ==================== -->
+    <string name="chapter_thirteen_title">Chapter 13 ✨</string>
+    <string name="chapter_thirteen_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 14 ==================== -->
+    <string name="chapter_fourteen_title">Chapter 14 ✨</string>
+    <string name="chapter_fourteen_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+
+    <!-- ==================== Chapter 15 ==================== -->
+    <string name="chapter_fifteen_title">Chapter 15 ✨</string>
+    <string name="chapter_fifteen_body">Coming soon… this chapter is waiting to be written. 🌙</string>
 </resources>

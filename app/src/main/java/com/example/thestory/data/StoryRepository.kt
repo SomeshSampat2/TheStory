@@ -43,6 +43,51 @@ object StoryRepository {
             id = 6,
             titleRes = R.string.chapter_six_title,
             bodyRes = R.string.chapter_six_body
+        ),
+        StoryChapter(
+            id = 7,
+            titleRes = R.string.chapter_seven_title,
+            bodyRes = R.string.chapter_seven_body
+        ),
+        StoryChapter(
+            id = 8,
+            titleRes = R.string.chapter_eight_title,
+            bodyRes = R.string.chapter_eight_body
+        ),
+        StoryChapter(
+            id = 9,
+            titleRes = R.string.chapter_nine_title,
+            bodyRes = R.string.chapter_nine_body
+        ),
+        StoryChapter(
+            id = 10,
+            titleRes = R.string.chapter_ten_title,
+            bodyRes = R.string.chapter_ten_body
+        ),
+        StoryChapter(
+            id = 11,
+            titleRes = R.string.chapter_eleven_title,
+            bodyRes = R.string.chapter_eleven_body
+        ),
+        StoryChapter(
+            id = 12,
+            titleRes = R.string.chapter_twelve_title,
+            bodyRes = R.string.chapter_twelve_body
+        ),
+        StoryChapter(
+            id = 13,
+            titleRes = R.string.chapter_thirteen_title,
+            bodyRes = R.string.chapter_thirteen_body
+        ),
+        StoryChapter(
+            id = 14,
+            titleRes = R.string.chapter_fourteen_title,
+            bodyRes = R.string.chapter_fourteen_body
+        ),
+        StoryChapter(
+            id = 15,
+            titleRes = R.string.chapter_fifteen_title,
+            bodyRes = R.string.chapter_fifteen_body
         )
     )
 

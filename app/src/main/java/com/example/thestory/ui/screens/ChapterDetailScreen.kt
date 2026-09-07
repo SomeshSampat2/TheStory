@@ -40,6 +40,8 @@ import androidx.annotation.StringRes
 import com.example.thestory.R
 import com.example.thestory.data.StoryProgressStore
 import com.example.thestory.data.StoryRepository
+import com.example.thestory.data.model.StoryChapter
+import com.example.thestory.ui.components.ChapterImageGallery
 import com.example.thestory.ui.components.FloatingHeartsBackground
 import com.example.thestory.ui.components.LottieAnimationBox
 import com.example.thestory.ui.theme.StoryGold
@@ -118,7 +120,7 @@ fun ChapterDetailScreen(
                         color = MaterialTheme.colorScheme.onBackground
                     )
                     Spacer(modifier = Modifier.height(20.dp))
-                    AnimatedParagraph(textRes = chapter.bodyRes)
+                    ChapterBody(chapter = chapter)
                     if (chapter.id == totalChapters) {
                         Spacer(modifier = Modifier.height(32.dp))
                         TheEndSection()
@@ -128,6 +130,43 @@ fun ChapterDetailScreen(
             }
         }
     }
+}
+
+/**
+ * Renders a chapter's story content.
+ *
+ * - Text-only chapters (bodyRes set, no images): single paragraph card.
+ * - Photo chapters (bodyPart1 + images + optional bodyPart2):
+ *   body_1 card -> horizontal photo strip -> body_2 card.
+ * Blank strings are skipped, so body_2 stays hidden until you write it.
+ */
+@Composable
+private fun ChapterBody(chapter: StoryChapter) {
+    if (!chapter.hasImages) {
+        chapter.bodyRes?.let { AnimatedParagraphIfNotBlank(textRes = it) }
+        return
+    }
+    chapter.bodyPart1Res?.let { AnimatedParagraphIfNotBlank(textRes = it) }
+    Spacer(modifier = Modifier.height(16.dp))
+    ChapterImageGallery(imageResIds = chapter.imageResIds)
+    chapter.bodyPart2Res?.let {
+        val part2 = stringResource(it)
+        if (part2.isNotBlank()) {
+            Spacer(modifier = Modifier.height(16.dp))
+            AnimatedParagraphIfNotBlank(textRes = it)
+        }
+    }
+}
+
+/**
+ * Same soft card as [AnimatedParagraph], but renders nothing
+ * when the string is blank — used for optional body_2 parts.
+ */
+@Composable
+private fun AnimatedParagraphIfNotBlank(@StringRes textRes: Int) {
+    val text = stringResource(textRes)
+    if (text.isBlank()) return
+    AnimatedParagraph(textRes = textRes)
 }
 
 /**

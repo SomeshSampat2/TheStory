@@ -10,6 +10,11 @@ import com.example.thestory.data.model.StoryChapter
  *   app/src/main/res/values/strings.xml
  * ➤ To add more chapters: add a new StoryChapter here (id must be
  *   sequential) and the matching strings — the UI adapts automatically.
+ * ➤ To add photos to any chapter later:
+ *   1. Drop lowercase drawables (e.g. chapter_8_chat_1.jpeg) into res/drawable.
+ *   2. Split its text into chapter_*_body_1 / chapter_*_body_2 strings.
+ *   3. Switch that entry to bodyPart1Res + imageResIds + bodyPart2Res
+ *      (see chapter 7 below). Chapters without imageResIds stay text-only.
  */
 object StoryRepository {
 
@@ -47,7 +52,16 @@ object StoryRepository {
         StoryChapter(
             id = 7,
             titleRes = R.string.chapter_seven_title,
-            bodyRes = R.string.chapter_seven_body
+            bodyPart1Res = R.string.chapter_seven_body_1,
+            imageResIds = listOf(
+                R.drawable.chapter_7_chat_1,
+                R.drawable.chapter_7_chat_2,
+                R.drawable.chapter_7_chat_3,
+                R.drawable.chapter_7_chat_4,
+                R.drawable.chapter_7_chat_5,
+                R.drawable.chapter_7_chat_6
+            ),
+            bodyPart2Res = R.string.chapter_seven_body_2
         ),
         StoryChapter(
             id = 8,

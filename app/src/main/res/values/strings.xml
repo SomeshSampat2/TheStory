@@ -13,6 +13,8 @@
     <string name="cd_back">Go back</string>
     <string name="cd_heart">Heart</string>
     <string name="cd_lottie_animation">Animation</string>
+    <string name="cd_chapter_image">Chapter photo %1$d</string>
+    <string name="cd_close_image">Close photo</string>
 
     <!-- ======================================================= -->
     <!-- THE STORY — replace every chapter_title / chapter_subtitle   -->
@@ -140,12 +142,48 @@
     and it was fairly very negative, like ye bhi chize bolte the log ki bohot ego hai isme, kisise jyada baat nahi karti so all of that basically ab tak accha kucch bhi nahi pata tha tere baare me.</string>
 
     <!-- ==================== Chapter 6 ==================== -->
-    <string name="chapter_six_title">Our First Interaction</string>
-    <string name="chapter_six_body">So our real story starts here, </string>
+    <string name="chapter_six_title">Our First Interaction 1️⃣</string>
+    <string name="chapter_six_body">To after ye sab valentine vala scene, 26th feb ko tera birthday aaya and usme bhi same drama hua ... like no interaction and hum maje lete rahe mahajan ke and also
+    tabhi corona ki khabre aana chalu hogayi thi usike aas pass so sab ko lag hi raha tha ki apne country me bhi corona ka kucch na kucch scene hone wala hai uske 3 4 din baad I think 2 or 3 march ko college walo
+    ne bola tha ki abhi 1 week college me aane ki jarurat nahi hai online hi classes honge but tab kisko ye nahi bola tha ki ghar jana hai apne town me so sab log hostel me hi the
+    and then maine socha yaha aise hi baithe baithe bor hota hai so ek kaam karte hai youtube channel banata hoon and uspe apne gaane dalta hoon so uske pehele bhi kyuki muze banane ka experience tha
+    videos ka so maine start kar diya new channel and singing karke first gana dala. \n
+    Tab and aisa hua ki koi view nahi aa rahe the, so kaisa hota tha ... me usually gane vagaire share nahi karta tha muze lagta tha ki kya hai ye apna hi gana apan hi share kare 😅, logo ne apne aap dekhna
+    chahiye, but baad me thoda marketting and all padha, usme samjha apni chize logo tak pohochane ke liye staring me besharam hona padta hai and jitne logo tak pohocha sako pohochaneka tabhi log dekhte hai
+    otherwise noone cares. And muze wo baat hit huyi so maine kya kiya apne sabhi contacts ko to bheja hi and sathme college ke group me bhi bheja 😂. Ab group me bhejke ek chiz samajh me aayi ki jab apan
+    group me bhejte hai to koi dekhta nahi hai sab scroll karte hai to isliye maine bola ab next gana mai uss apne division wale group me jitne bhi log hai sab ko personally bhejunga. So same I think around 9th ya 10th march ko
+    maine gana dala and start kiya 1 1 karke jitne bhi numbers the apne group me sab ko personally bhejna. And tuze yaad hoga to mai ekdum mast msg bhejta tha wo link share karke ... mai bhejta tha
+    Hi, I dont know if you are boy or girl but I am Somesh, apan same division me hai and I got this number from our whats app group and this is my youtube channel so just like kar dena 1  .. Thank You !! 😂😂.
+    And bass that was the moment jab luckily 1 msg tuze bhi gaya ☺️. Waise luckily ab bol raha hoon me tab muze kucch khas lena dena nahi tha 😂. This luck was for the future that I never imagined 🤭. \n
+    Ab usme kya hua most of the numbers like maine around 20 logo ko karke dekha random and usme se almost kisine bhi chahe wo ladka ho ya ladki respond hi nahi kiya, either thums up wala emoji dal diya 👍 or kucch nahi
+    bola. Bass response kiya tha tune ☺️, and boli thi ohhh, Nice, and By the way this is Nikita. And mai itna noob tha 😂, ki muze ye bhi pata nahi tha ki apne division me sirf ek hi nikita hai ... maine tuzse puccha
+    ki Nikita Aswale ka 😅. And tune bola - ajun koni dusri nikita aahe ka aaplya division madhe and mai bola are mala mahitich nahi , mi college la khuup kami yeto na mhanun 😅, and uske baad tune bola tha - haa te pan aahe
+    fir maine puccha - He maz channel aahe, so gaane share kele tar chalel na ase, and tune bola tha - Ho ho chalel, and maine bola tha Thanks 😄.\n
+        So ye tha apna first interaction. And muze tab laga yr ye itne sweet way me kaise boli 😅, kyuki ye to ekdum khadus and rude ladki hai 😂, but anyway, muze accha laga tha that
+    someone replied and also gave me like and subscribe. \n
+    To tere uss interaction ki wajah se mera confidence bhi bohot badh gaya ki log matlab positively le rahe hai kisiko bura nahi lag raha kucch and just uske hi baad mansi garad ka msg aaya 😅, ki
+    tuze mera number kisne diya to maine bola ki maine group se liya bataya to hai, to sidha boli aise kisiko bhi randomly msg kar raha hai ... teri complain kar di to maine, matlab mera jitna confidence badha tha
+    pura khatam kar diya usne 😂. Mai bola bhai ye karna bilkul thik nahi nahi, usko maine bola sorry didi aapko nahi bhejunga aagese 🙏. And uske baad maine randomly bhejna band kar diya.</string>
 
     <!-- ==================== Chapter 7 ==================== -->
-    <string name="chapter_seven_title">Chapter 7 ✨</string>
-    <string name="chapter_seven_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+    <!-- Chapter 7 is the first chapter with photos: body_1 -> photo strip -> body_2.
+         Any future chapter can follow the same pattern: add body_1 / body_2 strings
+         and list its drawables in StoryRepository. Chapters with no photos just
+         keep using a single chapter_*_body string. -->
+    <string name="chapter_seven_title">Covid 😷 and our Conversations 💬</string>
+    <string name="chapter_seven_body_1">After our first interaction, just 2 hi din me announce hua around 12 mrch ko Nationwide lockdown and sab log fir apne apne home town me chale gaye and then ghar pe jake to fir mai full hi free ...
+    so maine gaane dalne chalu kar diye firse and but iss bar mai sirf unko hi share kiya jinki taraf se something positive at least thumbs up to bhi aaya tha 😅... and second gaane ke time pe bhi mostly sab ne aise hi
+    thumbs up and all bheja ... but tune reply diya tha ... ki are tula itka time kasa bhetto he sarv karayla and maine reply kiya tha ki are dusre kay kaam aahet mag mala
+    mi divasbhar rikamach asto mhanun karat rahato kahitari ... and aise hi apna conversation hua tha acchese ... and last me mai bhi puccha tha tuze ... ki mi he songs share kele tar kahi problem nahi na ... and tune bola tha nahi nahi kar
+    kahi problem nahi. And pata nahi second conversation ke baad hi muze aisa thoda thoda lagta tha ki iske baare me jaisi baate suni hai ... waisi to lagti nahi ye bilkul 😅 .... but bolta tha jane do apne ko kya hi karna hai.
+    Then Same fir third song bheja tha and firse apna conversation hua tha and each time conversations bade bade hote gaye the 🤭 .... and pata hai best part kya tha ... tu bhi equally participate karti thi un conversations me jitna ki mai
+    karta tha.. tu bhi utna hi involve reheti thi jitna ki mai reheta tha ... anyways ... but kafi fun conversations hote the ... to aise hi ek conversation me tune muze puccha tha ki tu itna kaam karta ... koi GF nahi kya teri
+    and maine bola tha nahi baba ... apne ko wo sab kaam pasand hi nahi hai 😂 ... and uske hi thode time baad tune muze puccha tha ki tuze kya lagta ... mera koi hai BF ya nahi ... and maine tuze mast reply diya tha ... 😂 .. maine bola tha
+    muze nahi pata ... hoga to bhi accha hai ... nahi hoga to bhi accha hai ... muze kya karna hai jaan ke ... and tu bhi fir boli thi ki haa sahi hai 😂 ... and our conversation just got longer and tune fir bola tha same wohi jo mahajan aur Raj
+    ko bolke rakha tha ki ... maza aahe ek BF mazya gavat ... and uski mast kucch story batayi thi 😂 ... to mai to tuze har baar usike naam se chidata reheta tha ... matlab baar baar me yahi bolta reheta tha ... are to tula kasa zelto g ...
+    tyala tar full pacchtava hot asel .. aisa waisa 😂. </string>
+    <!-- Write the part of chapter 7 that comes AFTER the photos here. Leave empty until written — the app hides it while blank. -->
+    <string name="chapter_seven_body_2"></string>
 
     <!-- ==================== Chapter 8 ==================== -->
     <string name="chapter_eight_title">Chapter 8 ✨</string>

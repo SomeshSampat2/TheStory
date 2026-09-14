@@ -12,6 +12,9 @@ import androidx.annotation.StringRes
  * - Text + photos (chapter 7 and any future chapter): set [bodyPart1Res],
  *   [imageResIds] and optionally [bodyPart2Res]. The UI renders
  *   body_1 -> horizontal photo strip -> body_2 (blank parts are hidden).
+ * - Text + two photo strips (chapter 7): additionally set
+ *   [secondImageResIds] and optionally [bodyPart3Res]. The UI renders
+ *   body_1 -> strip 1 -> body_2 -> strip 2 -> body_3.
  */
 data class StoryChapter(
     val id: Int,
@@ -19,7 +22,9 @@ data class StoryChapter(
     @StringRes val bodyRes: Int? = null,
     @StringRes val bodyPart1Res: Int? = null,
     @DrawableRes val imageResIds: List<Int> = emptyList(),
-    @StringRes val bodyPart2Res: Int? = null
+    @StringRes val bodyPart2Res: Int? = null,
+    @DrawableRes val secondImageResIds: List<Int> = emptyList(),
+    @StringRes val bodyPart3Res: Int? = null
 ) {
-    val hasImages: Boolean get() = imageResIds.isNotEmpty()
+    val hasImages: Boolean get() = imageResIds.isNotEmpty() || secondImageResIds.isNotEmpty()
 }

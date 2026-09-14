@@ -138,7 +138,10 @@ fun ChapterDetailScreen(
  * - Text-only chapters (bodyRes set, no images): single paragraph card.
  * - Photo chapters (bodyPart1 + images + optional bodyPart2):
  *   body_1 card -> horizontal photo strip -> body_2 card.
- * Blank strings are skipped, so body_2 stays hidden until you write it.
+ * - Two-strip chapters (chapter 7): body_1 -> strip 1 -> body_2
+ *   -> strip 2 (secondImageResIds) -> body_3.
+ * Blank strings are skipped, so body_2 / body_3 stay hidden until you write them.
+ * Empty galleries render nothing (see [ChapterImageGallery]).
  */
 @Composable
 private fun ChapterBody(chapter: StoryChapter) {
@@ -147,11 +150,24 @@ private fun ChapterBody(chapter: StoryChapter) {
         return
     }
     chapter.bodyPart1Res?.let { AnimatedParagraphIfNotBlank(textRes = it) }
-    Spacer(modifier = Modifier.height(16.dp))
-    ChapterImageGallery(imageResIds = chapter.imageResIds)
+    if (chapter.imageResIds.isNotEmpty()) {
+        Spacer(modifier = Modifier.height(16.dp))
+        ChapterImageGallery(imageResIds = chapter.imageResIds)
+    }
     chapter.bodyPart2Res?.let {
         val part2 = stringResource(it)
         if (part2.isNotBlank()) {
+            Spacer(modifier = Modifier.height(16.dp))
+            AnimatedParagraphIfNotBlank(textRes = it)
+        }
+    }
+    if (chapter.secondImageResIds.isNotEmpty()) {
+        Spacer(modifier = Modifier.height(16.dp))
+        ChapterImageGallery(imageResIds = chapter.secondImageResIds)
+    }
+    chapter.bodyPart3Res?.let {
+        val part3 = stringResource(it)
+        if (part3.isNotBlank()) {
             Spacer(modifier = Modifier.height(16.dp))
             AnimatedParagraphIfNotBlank(textRes = it)
         }

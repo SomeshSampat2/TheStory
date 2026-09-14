@@ -15,6 +15,8 @@ import com.example.thestory.data.model.StoryChapter
  *   2. Split its text into chapter_*_body_1 / chapter_*_body_2 strings.
  *   3. Switch that entry to bodyPart1Res + imageResIds + bodyPart2Res
  *      (see chapter 7 below). Chapters without imageResIds stay text-only.
+ * ➤ Chapter 7 has TWO strips: body_1 -> strip 1 (chapter_7_chat_*)
+ *   -> body_2 -> strip 2 (chapter_7_second_chat_*) -> body_3.
  */
 object StoryRepository {
 
@@ -61,7 +63,28 @@ object StoryRepository {
                 R.drawable.chapter_7_chat_5,
                 R.drawable.chapter_7_chat_6
             ),
-            bodyPart2Res = R.string.chapter_seven_body_2
+            bodyPart2Res = R.string.chapter_seven_body_2,
+            secondImageResIds = listOf(
+                R.drawable.chapter_7_second_chat_1,
+                R.drawable.chapter_7_second_chat_2,
+                R.drawable.chapter_7_second_chat_3,
+                R.drawable.chapter_7_second_chat_4,
+                R.drawable.chapter_7_second_chat_5,
+                R.drawable.chapter_7_second_chat_6,
+                R.drawable.chapter_7_second_chat_7,
+                R.drawable.chapter_7_second_chat_8,
+                R.drawable.chapter_7_second_chat_9,
+                R.drawable.chapter_7_second_chat_10,
+                R.drawable.chapter_7_second_chat_11,
+                R.drawable.chapter_7_second_chat_12,
+                R.drawable.chapter_7_second_chat_13,
+                R.drawable.chapter_7_second_chat_14,
+                R.drawable.chapter_7_second_chat_15,
+                R.drawable.chapter_7_second_chat_16,
+                R.drawable.chapter_7_second_chat_17,
+                R.drawable.chapter_7_second_chat_18
+            ),
+            bodyPart3Res = R.string.chapter_seven_body_3
         ),
         StoryChapter(
             id = 8,

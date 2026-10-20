@@ -15,8 +15,10 @@ import com.example.thestory.data.model.StoryChapter
  *   2. Split its text into chapter_*_body_1 / chapter_*_body_2 strings.
  *   3. Switch that entry to bodyPart1Res + imageResIds + bodyPart2Res
  *      (see chapter 7 below). Chapters without imageResIds stay text-only.
- * ➤ Chapter 7 has TWO strips: body_1 -> strip 1 (chapter_7_chat_*)
- *   -> body_2 -> strip 2 (chapter_7_second_chat_*) -> body_3.
+ * ➤ Chapter 7 has THREE strips: body_1 -> strip 1 (chapter_7_chat_*)
+ *   -> body_2 -> strip 2 (chapter_7_second_chat_*) -> body_3
+ *   -> strip 3 (chapter_7_third_chat_*) -> body_4.
+ * ➤ Chapter 8 has ONE strip: body_1 -> strip (insta_1..18) -> body_2.
  */
 object StoryRepository {
 
@@ -84,12 +86,39 @@ object StoryRepository {
                 R.drawable.chapter_7_second_chat_17,
                 R.drawable.chapter_7_second_chat_18
             ),
-            bodyPart3Res = R.string.chapter_seven_body_3
+            bodyPart3Res = R.string.chapter_seven_body_3,
+            thirdImageResIds = listOf(
+                R.drawable.chapter_7_third_chat_1,
+                R.drawable.chapter_7_third_chat_2,
+                R.drawable.chapter_7_third_chat_3
+            ),
+            bodyPart4Res = R.string.chapter_seven_body_4
         ),
         StoryChapter(
             id = 8,
             titleRes = R.string.chapter_eight_title,
-            bodyRes = R.string.chapter_eight_body
+            bodyPart1Res = R.string.chapter_eight_body_1,
+            imageResIds = listOf(
+                R.drawable.insta_1,
+                R.drawable.insta_2,
+                R.drawable.insta_3,
+                R.drawable.insta_4,
+                R.drawable.insta_5,
+                R.drawable.insta_6,
+                R.drawable.insta_7,
+                R.drawable.insta_8,
+                R.drawable.insta_9,
+                R.drawable.insta_10,
+                R.drawable.insta_11,
+                R.drawable.insta_12,
+                R.drawable.insta_13,
+                R.drawable.insta_14,
+                R.drawable.insta_15,
+                R.drawable.insta_16,
+                R.drawable.insta_17,
+                R.drawable.insta_18
+            ),
+            bodyPart2Res = R.string.chapter_eight_body_2
         ),
         StoryChapter(
             id = 9,

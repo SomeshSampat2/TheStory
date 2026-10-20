@@ -190,7 +190,7 @@
     tu kisiko nahi batayega, mai bola yes promise, fir bhi tune 2 3 baar bola sach me mat batana aisa waisa, and mai sochne laga kya baat hai aisi 😅. And tune muze bata diya ki actually tu jo BF ke baare me bolti reheti hai waisa koi person actual me exist hi nahi karta hai
     and tu se sab sirf sabko is liye batati hai taki log tere picche na pade. And pata hai tune bola to pata nahi muze itna shock nahi laga 😅. Like muze hamesha se lagta hi tha andar se tuzse baat karke and all ki tu waisi ladki lagti nahi
     still jo tu batati reheti hai wo pura contrarary lagta reheta tha and us din tune bataya so muze clearly samjh gaya ki tu muze jaisi lagti hai bilkul waisi hi ladki hai 😊. But tere sath baat karte waqt maine kucch bola nahi tha waisa kucch
-    mai to wahi bakchodi chalu rakhi thi ... ki tu khooth bol rahi hai ... tera to hai aisa waisa ... but in my mind I was happy ki tu waisi ladki nahi hai ... kyuki tab tak apan chats itni kar rahe the ki jitna shayad me kisi dost se milke bhi baat na karu 😂. So
+    mai to wahi bakloli chalu rakhi thi ... ki tu khooth bol rahi hai ... tera to hai aisa waisa ... but in my mind I was happy ki tu waisi ladki nahi hai ... kyuki tab tak apan chats itni kar rahe the ki jitna shayad me kisi dost se milke bhi baat na karu 😂. So
     friendship to ho gayi thi apni and meri friend koi aisi waisi ladki nahi bani hai wo sochke khush hua tha me 😄. \n Tab to 2020 tha apna apne apne gharo me the and apne baat baat pe aisi baate hoti thi ki are Frined ke liye itna nahi karega kya 😄. Me bolta tha
     tu friend ke liye itna bhi nahi karegi kya aisi hi baate chalti apni ... and wo bhi itna time chalti thi na 2 3 ghante to kahi pe bhi nahi gaye ... and maja bhi aata tha kyuki dono ko 1 naya person mil gaya tha life me.. to dono uska pura fayda uthate the.
     \n Pata hai tab tere samne se messages aate the ... ki bohot saari party pending hai ... apan milenge tab har ek party lungi then me songs dalta tha to bolti thi ki teri voice bohot acchi hai. And seriously muze itne complements dene wali, itni friend friend karne wali
@@ -201,24 +201,187 @@
     <!-- Second photo strip (chapter_7_second_chat_1..18) sits between body_2 and body_3. Write the part AFTER the second strip here. Leave empty until written — the app hides it while blank. -->
     <string name="chapter_seven_body_3">Tu Soch rahi hogi ki maine itne pure chats firse padhe sirf ye sab likhne ke liye, so the answer is yes, and actually this is not the first time, ye second time hai jab me apne pure chats padh raha hoon, batata hoon aage sab kucch. Par
     tu padhegi na maja aayega tuze bohot, nostalgia hoga 😂. Tu to most of the chize bhul gayi hogi but maja tha wo pura alag covid ka ghar pe reheke tere sath baat karte rehene ka, like har ek chhoti se chhoti chiz apan
-    ek dusre ke sath share karne lage the even when we haven't even met yet, still dono ka bond itna accha hogaya tha ki dono ko bhi bass baate karti rehenihoti thi. \n
+    ek dusre ke sath share karne lage the even when we haven\'t even met yet, still dono ka bond itna accha hogaya tha ki dono ko bhi bass baate karti rehenihoti thi. \n
     Ye dekh ab ye tune jab muze bataya tha ki tera BF nahi hai koi wo wali chat apni 🤭.</string>
+    <!-- Third photo strip (chapter_7_third_chat_1..3) sits between body_3 and body_4. Leave body_4 empty until written — the app hides it while blank. -->
+    <string name="chapter_seven_body_4">Ye wo time that jab apan sirf fun, fun and fun chalte the nothing else.</string>
 
     <!-- ==================== Chapter 8 ==================== -->
-    <string name="chapter_eight_title">Chapter 8 ✨</string>
-    <string name="chapter_eight_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+    <string name="chapter_eight_title">The day you told me about your Past</string>
+    <string name="chapter_eight_body_1">So ab tak jitni bhi apan ne baate ki thi usse mera narrative to tere baare me pura change hogaya tha, I mean mere kisi bhi dost ke sath meri itni der baate nahi chalti thi
+    jitni ki tere sath chalti thi, so jo mera tere baare ego wala doubt tha wo almost khatam hogaya tha, and muze samajh gaya tha ki log tere baare me bohot galat sochte hai, tu waise bilkul nahi hai and log pehele se hi
+    tere baare me opinions galat banake baithe hai also tune sudnyan ka bhi doubt clear kar diya tha ki koi tumhare raat raat bhar call vagaire nahi chalte, so muze wo bhi samjh me aa gaya tha ki wo sirf dinge marne ke liye
+    sabke samne bolta reheta tha but uski wajah se teri image kharab ho rahi thi.\n
+    But Ek raat ko apan baat kar rahe the instagram pe and tu kafi sad thi, and mai tuze puch raha tha ki kya hua but tu bata nahi rahi thi, but then tune bataya, and tuze yakin nahi hoga but that day mai sachme almost roya tha 😔
+    and not roya tha means and aavaj karke roya tha but mai bohot jyada emotional hua tha uss din. Pehele tu padh le apni chat tab ki tuze samjh jayega.</string>
+    <!-- Chapter 8 photo strip (insta_1..18) sits between body_1 and body_2. Leave body_2 empty until written — the app hides it while blank. -->
+    <string name="chapter_eight_body_2">Pata hai log hamesha apni insecurities ko chhupake rakhte hai, kyuki unhe dar lagta hai ki log apne ko kaise judge karenge iske baad, but jiss insaan ke sath share karte hai na apan wo chiz jo apan ne
+    baki sab se chhupake rakhi hai, Its my thinking that sane wala agar aapko uski insecurity bata raha hai so that means you matter for that person because that person is sharing something with you which he fears to share with anyone else and
+        jotune bataya tha ki tere sath school me kya kya hua tha, actually most of the messages to tune delete kar diye the so puri story nahi hai isme, ye chat wo batane ke baad wali hai, and maine jab suna tha na ki tere koi friends nahi school ke time pe
+        tu akeli akeli reheti thi even if tuze chahiye the ki tere bhi friends bane,then tuze koi teacher appreciate nahi karte the, kafi baar akeli hi reheti thi tu school time me. Bohot tough hoti hai yr ye chize mai jab sun raha tha tab muze feel ho raha tha ki kaise hota hoga wo chiz and fir tu bol rhi thi ki jiski kismat me dukh likha hai
+        usko hamesha ke liye wahi milega and tuze kucch expectaions hi nahi bachi apne future se kyuki tune past me itna kucch dekh liya hai ki tu akeli ki company hi enjoy kar leti ab. Tuze pata hai uss din me thoda jyada emotional kyu hua, actually uske 2 3
+        reason the jo main wala hai wo me aage bataunga, but along with that mai isliye bhi hua ki yr kis ladki ko aisa bolte hai log, matlab jo logo ka kucch khudka ata pata nahi hai
+        wo log tere jaise ladki ke baare me kucch bhi bolte rehete the and tuze lag raha hoga ki itna kya usme bolne deneka but waisa nahi hota na dear, pata hai log jab tere samne tuze galiya dete hai maybe tuze fark pad jata ya most of the
+        time nahi padta par apne samne apne dost ko koi bura bole na wo sehen nahi hota. So that was disturbing me. Also pata hai uss din se maine than liya tha ki isko iske past me kabhi aise dost nahi mile jo iske sath khade rahe jab isse jarurat thi
+        ya kabhi usse kami lagti thi to uske pass nahi gaye. But mai isse lifetime ke liye aisa dost dunga, jisko wo hamesha haq se kucch bhi bol sakegi, jo kucch bhi hojaye uske sath rahega, uske chhote chhote achievements pe usko
+        compliment karega and usko hamesha happy rakhega 😊. Kyuki pata hai last me tune kya kaha tha ki ye chiz maine aaj tak kisiko bhi nahi batayi hai bass apne andar hi andar sochti reheti thi
+        aaj pata nahi kya hua maine bata diya. And I am so glad ki tune wo bataya tha 😊. Because otherwise aaj tera ye dost itna sab kucch nahi kar pata jo ki usne aage jake kiya ☺️.
+    </string>
 
     <!-- ==================== Chapter 9 ==================== -->
-    <string name="chapter_nine_title">Chapter 9 ✨</string>
-    <string name="chapter_nine_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+    <string name="chapter_nine_title">Our First Meeting / Date ❤️</string>
+    <string name="chapter_nine_body">So ye sab hone ke baad hai na, apni baate aur bhi jyada badh gayi thi, ek dusre se apan sab kucch share karte the chhoti se chhoti chiz se leke kucch bada bhi hone wala ho wo sab, tune apne migrane ka issue bataya
+    tha, then mai kucch chupchap banata reheta tha tab ghar baithke to sirf tuze batata tha ki mai ye bana raha hoon, so kafi saare secrets the jo apan sirf ek dusre ko hi batate the 😄. And dekhte hi dekhte tera birthday aaya tha
+        so maine tuze raat ko 12 baje wish kiya tha.. tab covid hi chal raha tha so sab WFH hi the and muze yaad hai apni uss time tere birthday ke din continuous raat ko 12 baje se leke 2.30 tak chat chali thi 😅. And maine bola tha usme ki party to lagegi
+        so tu bolti thi yaha aaja deti party and fir mai bolta tha nahi aise nahi tu yahape aa and aise baccho jaise chalte reheta tha 😂. But fir tu boli thi ki are dungi baba, college chalu hone de tab tuze acchisi party dungi. And mai bhi bola tha haa
+        but yaad rakhna ki deni hai ... and tu boli thi jarur and mai khud hi bhul gaya uske baad 😅.\n\n
+        So uske baad around after 3 4 months I think apne ko college me bulaya and apna last year tha so muze to kucch hope nahi tha ki apan kabhi mil bhi payenge but I think destiny me tha milna .. and so wahape aake bhi dono hostels pe the but kabhi mile nahi the
+        chatting puri karte the, and 1 aur thodi crazy chiz ye hogayi thi mere yahape, ab koi tere baare me kucch bolta tha na ... to mai fir sunta nahi tha mai usko suna deta tha 😅. And isliye kisiko samjh me nahi aaya ki achanak isse kya hoagaya
+        to koi kucch bhi bolta tha na tere baare me ... me defend karne lagta tha ki nahi re wo bilkul waise nahi hai ... aisa narrative galat banate ho tum log uske baare me ye acchi chiz nahi. Uski wajah se sab log tere naam se muze chidane bhi lage the 😂. But
+        seriously bolu to at that time muze pasand nahi tha ye sab chidate the muze, like literally bilkul pasand nahi tha kyuki tab mere dimag me tere liye kucch tha hi nahi, just ek ladki jo acchi hai uski image na kharab ho itna hi tha... but still mai bola
+        chidane do logo ko but isse teri bin faltu ki at least badnami rok di maine sabke muh se wo dekhkar accha lagta tha.\n
+        So ek din mai aise hi bol raha tha tuzse ki are kya pata milna hoga ki nahi and party bhi nahi huyi apni to and uss din normal convo chala and uske 2 din baad tune muze msg kiya tha sun tu party ka bol raha tha na ... so 5th ko jate hai and I was like
+        baapre achanak se yaad aaya party ka, tu boli are de deti hoon baba ... nahito baad me bolega ki khadus ladki hai party bhi nahi deti 😂. And maine bola chalega chalte hai so tune puccha kahape maine bataya Taste Veg my favourite hotel. Accha ye tuze me aaj confess kar raha hoon
+        tuze aaj tak pata nahi hoga 🤭. But jaisa ki maine bola uss waqt mera koi itna interest nahi tha I mean mai tuze koi pasand vagaire nahi karta tha so jaise party ki baat ki na ... maine dimag me calculation daudaye and bola jo sabse mehenga wala muze pata hai
+        wahi jate hai matlab jyada loot sakunga 😂. So I am sorry for that but thats the truth. So tuze pata hai apni date 5 decide huyi thi and uss din tu kucch tere friends ke sath maje karne gayi thi and me wait karta raha tere msg kaa and shaam ko 8 baje tu bolti hai
+        are mai baato baato me bhul hi gayi ki tuze bola tha aaj jane ke liye sorry. And muze tab itna ajeeb laga tha na 😅. Mai bola tha bhai kya hai ye ladki, matlab agar nahi deni party to mat de , aisa to mat kar ki deni thi par bhul gayi so tune bohot baar bola sorry sorry
+        and bola 9 ko jaate and mai bola ab mai tayyar hone hi nahi wala tu 9th ko samne se chal msg karegi tabhi aaunga, and tu boli thi are nahi tab pakka jate. Are haa and ek aur chiz jab tu bol rahi thi party ko jaate hai
+        tab muze actually laga hi nahi tha ki sirf hum dono hi jane wale hai, kyuki maine hamesha tuze group me hi party karte dekha tha to muze kya laga tha ki jitne bhi logo ki party pending hogi sabko tu bulane wali hai and maine apne dosto ko
+        keh ke bhi rakha tha ki bhai wahape galti se sudnyan aa gaya tha to mai dekhke hi bol dunga ki bhai muze thoda kaam mai abhi nahi aa sakta 😂.\n\n
+        So finally the day came, mai pura ekdum mast tayyar hua tha bola peheli baar kisi ladki ke party me jaa rahe hai accha dikhna padega 🤭. And mai usually chappal pehenta hoon but uss din shoes pehene the
+        mast perfume vagaire lagake tune msg kiya tha 10 min milte gate ke pass. To mai gate pe pohocha and maine peheli baar tuze phone kiye tab life me kaha hai pucchne ke liye. So maine phone kiya hello bola and samnese jo
+        Hello muze sunai diya ..... aaye haye 😍. Tuze yaad nahi hoga but me literally 3 4 sec pause hogaya tha, tune 2 3 baar hello bola fir maine bola are kucch nahi kaha hai pucchne ke liye phone kiya and tune then bola just pohoch hi rahi hoon
+        and phone rakhne ke baad mai itna smile kar raha tha na .., mai bola ye itna sweeeeeeet aavaj hai yr iska. Like itna sweet aavaj kaise ho sakta hai kisika and I was like mad about that voice since that day when I heard it first time.\n
+        So teri aawaj se to me already mesmerize ho hi gaya tha and 5 min baad tu aayi thi wahape gate pe red dress me, and tu bhi acchese tayyar hoke aayi thi and uske baad Live me to tera aavaj aur bhi jyada meetha tha 🤭.
+        So maine puccha apan 2 hi hai kya tune bola haa aur kaun hoga. And sach batau.... ye bhi tuze kabhi batya nahi maine ... par kasamse meri tab itni fati thi na 😂. Kyuki jaisa ki mai bola muze lag raha tha ki aur koi group bhi
+        shayd se aayega kya but apan dono hi the so mai andar se kafi nervous feel kar raha tha but bahar se ekdum confident dikha raha tha jaise kucch hai hi nahi so fir maine puccha cab se
+        jana hai ya chalke tu boli tu bata, so mai bola mai to hamesha chal ke hi jata hoon but tuze chalega, I mean tu thakegi to nahi anf tu boli are muze to bohot chalne ki aadat hai so bola chalo fir chalte hai aise hi
+        and believe me, tab jaate waqt me ghabraya hua tha bohot ... kyuki muze lag raha tha ki bhai kucch galat na galti se bol du ... kabhi gaya hi nahi tha na ladkiyoke sath so pata hi nahi ki kaise bolte
+        and tu mast aaramse baate kar rahi hai alag alag ki tune pune kyu choose kiya yaha tuze accha lagta hai ki nahi and all. And pata hai mai kya baate karne laga uss din 😂, ki tuze blockchain pata hai kya ?
+        tuze AI pata hai kya, future technologies wahi hai abhi. Mai abhi sochta hoon na iske baare me ki mai kitna boodhhoo tha, peheli baar kisi ladki ke sath aaya hoon 😂, kucch normal baate karni hoti hai
+        mai gyan dene lag gaya tha uss ladki ko .... So baad me apan gaye khana khaya, tune bill bhara 🤭. Fir apan nikal rahe the and tune bola are apne ko 3 ghante hogaye bole baate karte karte
+        samjh hi nahi aaya itna time kaise ho gaya, And maine fir jaate jaate tuze bataya ki actually sorry tuze agar kucch accha nahi laga ho to because me peheli baar aise kisi ladki ke sath aaya hoon
+        and tune bola are nahi aisa kucch nahi mai bhi peheli baar hi kisi ladke ke sath aayi hoon 😄. Mai to khush hogaya, are matlab chalo bola mere akele ka hi nahi tha ye first experience, sane wale ka bhi tha
+        and tune pucha so tuze kaisa laga ye apna experience and maine bola accha tha and tuze kaisa laga tune bhi bola accha hi tha , like dono ekdum casual baat kar rahe the and jaate jaate 1 2 chiz aur huyi jiski wajah se
+        aage bohot problem huye 😅. College ke raste pe jaate jaate apne ko bohot logo ne dekh liya tha and problem was me hostel me tere khilaf koi bole to defend karne lagta tha to already tere naam se chdane to lage hi the log
+        and abhi aur sathme dekh bhi liya tha so usse actually ek bohot danger kand hua tha mere sath, agle chapter me batata tuze 😅. But anyways so this was our first meeting jisme thodi si khushi thi, thodasa darr tha,
+        thodisi excitement thi but Maja aaya tha, like thank you so much for making my first Date Memorable Dear 🤭. I know tu ispe bhi offend hoti hai ki wo date nahi thi, but ek single ladka and ek single ladki jab first time
+        sirf dono jate hai na so usko date hi kehete hai yaad rakhna 😄. So thanks for being my first date ❤️.
+
+    </string>
 
     <!-- ==================== Chapter 10 ==================== -->
-    <string name="chapter_ten_title">Chapter 10 ✨</string>
-    <string name="chapter_ten_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+    <string name="chapter_ten_title">The First Story that I Never Told You 📜</string>
+    <string name="chapter_ten_body">To after our first meeting, hostel me bohot hi jyada shuru hogaya tha ki tera mera chal raha hai aisa. ab me to apni taraf se har
+    baar sabko explain karta tha ki nahi hai aisa, and dekh me itna tuze imandari se keh sakta hoon ki muze kitni bhi baar puccha logo ne 100 bar puccha hoga ki bol bhi de bata bhi
+        de still me harek baar nahi hi bolta raha, aisa bhi nahi kiya ki bhai hai bhai chal jane de naa... me hamesha bola kucch bhi nahi hai. Still baate to chalne laghi gayi thi
+        Accha ladkiyo ka muze pata nahi but ladko ke groups me sabse jyada charcha isi chizo ki hoti reheti hai ki kiska relation kiske sath chal raha hai and agar kiska hota hai na
+        so sab ladke aise khush hote hai jaise unka khud ka hi hua hai 😂. So kucch chal bhi nahi raha tha fir bhi sab khush ho rahe the ki meraa chalu hogaya hai aisa waisa 😂.
+        Sirf ek Tushal Kulwade tha jo bohot dukhi tha ... kyuki uska bichare ka Vishakha ke sath to chal hi raha tha, uske sath usko Nikita ke sath bhi chalu karna tha. To uske samne
+        to log jyada muze chidate the tere naam se taki usko mirchi lage 😂. But thik hai normal tha mai bhi fir itna mind nahi karne laga but problem hua uske 2 3 din baad. \n
+        Kya hua mai ek din akela jaa raha tha bahar and bahar muze 1 civil branch ka ladka tha uska naam to pata nahi but usko balya balya bolte the log, so wo aise 3 4 ladko ko
+        leke mere samne aaya tha and muze bolta hai are ruk 2 min terese baat karni hai, maine puccha bol to bolta hai sidha tera and Nikita ka kya relation hai bole, to muze samjh gaya ye kya
+        karne aaye the, but maine bola kucch nahi dost hai meri sirf, to bolta firse pucch raha hoon kya relation hai tera , to maine bola are bola nabhia dost hai sirf, to bolta dost ke sath kucch jyaa hi ghumne
+        jaa raha hai tu aaj kal, to mai bola are bhai uske birthday ke party ke liye wo leke gayi thi mai thodi. To fir wo bolta ... sun ab tak jo tha wo tha ... aaj ke baad uske aas
+        pass bhi nahi bhatneka bolta. To ab tak to hai na me shant tha matlab mai bola bhai chhod na isse kya, but usne dhamki di na to muze gussa aaya and mai bol baitha
+        sun bhai wo meri GF hai jo ukhadna hai ukhad le roj ghumunga bola uske sath and actually uska ek dost tha civil me jo ki mera usse bhi accha dost tha jiske dum pe ye kudta reheta
+        tha so maine usse bola tu uska hi dost hai na bola laga usko phone. To uska naam sune wo direct bolta hai are tu pehechanta kkya usko are jane de bhia fir pehele batane
+        ka na ... mai bola bhai me pehele se bol raha hoon kucch nahi kucch nahi fir bhi tu dhamki vagaire de raha hai sidhi ... wo bola are jane de chhod tuze pasand hai na wo fir jane de
+        tu apna hi dost hai hum sab koi nahi aayenge bich me, mai sir pakdke bola .. thik hai bhai thank you !! 😅. Ab kya hi bolta mai unko iske alawa. So ye chiz to maine
+        I think tuze batayi thi, ye civil wale ladke ki but danger chiz uske 1 din baad huyi thi jo ki sirf 1 2 logo ko pata hai and tuze batata hoon abhi wo ... \n\n
+        So, tuze pata hai tumhare hostel me ek ladki reheti thi wo satav ki GF jisse sab log darte the and jo akeli akeli reheti thi wo uska BF tha isliye, to waise hi ek aur ladki
+        thi jo ki hai na wo satav ke hi gang ke kisi ladke ko pasand thi but wo ladki ko wo pasand nahi tha, to un logo ne uss ladki ko itna jyada harras kiya tha na, literally maine
+        suna tha uss ladki ne police complain bhi karneka try kiya tha but kucch fayda nahi tha kyuki wo sab wo satav se koi police vagaire darte the wo waha ka sarpanch tha isliye
+        but wo pata hai kya karte the uss ladki ko kahi bhi bahar gayi na to baar baar uske paas jate the and bolte the ek baar wo ladke ke sath ghumne jaa vagaire and wo kucch
+        kar nahi sakti thi and wo kisiko bata bhi nahi sakti thi kyoki usko lagta tha ki wo aise acche gharki hai and uska naam kharab ho jayega. Hume sunke kafi bura lagta tha but kya
+        hi kar sakte the.\n
+        So ye maine tuze kyu bataya ab batata hoon, to jo mere sath picchle din civil wala ladka aaya tha and baadme chala gaya uske bohot saare dost wo satav gang wale hi ladke the
+        so pata nahi usne kisko kya bola but probably usne jake unko shayad bataya ki usse jo ladki pasand hai uske picche ye ladka yani me laga hoon so kucch karna padega to pata hai agle din kya hua
+        tha raat ke almost 8.30 9 baje the and me, raj and mera dost abhishek hum room pe baithe the and muze achanak se phone aaya tha unknown number se to mai to uthata nahi hoon unknown number
+        but 3 4 baar aaya to maine uthaya and samne se usne sidha bola sun tu abhi nikita ko leke wo ek dairy thi apne college ke pass wahape aaja. Mai bola bhai kon hai tu wo bola wo mai
+        batata tuze bass tu usko leke aaja, ab muze pata hi nahi kaun hai to mai bola bhai bor mat kar ... phone rakh bola. To usne firse call kiya and bola sun hum satav ke dost tuzse
+        kucch baat karni hai to aaja warna hum wahape aate bole hostel pe, to ye sunke sach bolu to me bohot ghabra gaya tha 😅. Kyuki uska naam maine bohot suna tha and kbhi socha nahi
+        tha ki aise karke phone aayega to maine bola thik hai aata hoon. And maine in dono ko bola Raj ko and abhishek ko ki aisa aisa hua hai, to wo to bol rahe the mat jaa baadme
+        dekh lenge kya hota, but mai bola bhai sun mai nahi gaya na to wo Nikita tang karna chalu kar denge and wo fir accha nahi hoga, kyuki apan ne suna hai wo uss ladki ke sath kaisa
+        kar rahe the to mai to bol raha tha ki mai jake aata hoon dekhte hai jo hoga wo, and Raj muze samjha raha tha Bhai tu pagal hai kya Uske liye tu itna khud khatra kyu apne
+        sir pe le raha hai, mai bola tha usse bhai usske chakkar me vagaire nahi par dekh meri wajah se uss ladki ke sath agar kucch bhala bura hua na to soch muze kaisa lagega? ... to
+        me jata hoon, bola to maine unko kafi time samjhaya and me aane laga, fat to bohot rahi thi meri kyuki pata nahi tha kya karne wale the 😂. Par pata nahi kya hua tha uss din himmat
+        karke chala gya me and actually mera ek jigri dost hai jalgaon ka jo pune me bhi tha tab to wo bohot aise bade bade logo se jan pehechan rakhta tha, to maine usko jate waqt call kiya and
+        samjhaya tha ki aisa aisa hai to tu sambhal lega na, to wo to assuarely bola ki are bilkul fikar mat kar unke samne jake bass muze phone de dena bole, ye bolne ke baad me thoda replax hua tha ki bhai
+        at least kucch to hai karke 😅,... to fir me pohocha wahape, and wahape dekhta hoon to 7 8 unke gang wale bande khade huye ... wo log jinko humne pehele bhi dekha tha college me aise
+        hi maramari karte huye vagaire and me akela fattu jaa raha hoon unke bich me 😂. To usne muze bola ki Nikita ko kyu nahi laya sath, me bola are but baat kya hai muze to batao
+        usko kyu bulana hai .... wo bola abhi phone kar aur bula yahape ... and bhai meri jo fati huyi thi na ... muze lag raha tha muze aaj maar maar ke yahi chhodne wale hai laga 😂.
+        But still maine bola sun bhai 1 in tu sirf ek baar inse baat karle and maine wo mere dost ko phone lagaya and usne unke main bande se baat ki phir and fortunately, luckily, pata nahi
+        kya hua 5 min phone pe baat karke usne sidha muze phone diya and bola koi nai bhai chal, are bhai hai bole ye apna, isko tang mat karo and bole jaa bhai tu, koi scene nahi hai
+        and mai shock hogaya 2 min ke liye but bola bhai nikalte hai jaldi yahase kucch hone se pehele and me chal gaya fat se wahase 😂. And maine apne uss dost ko phone
+        kiya and bola bhai kya kiya tune aisa ki wo sidha muze 5 min baad bole bhai hai ye apna aisa waisa, to wo bola are maine unki baat udayan Raje ke ek aadmi se karwayi bole ... usko
+        dekhke unki fat gayi bole and usko bolne lagaya ki uss ladke ko kucch bolna sochana bhi mat 😂. Mai bola bhai itni badi pehechan thi teri, pehele bolta mai hi apne college
+        pe rule karta bola ye satav vagaire ko nahi karne deta 😜. But anyways mai itna relaxxed hua na uske baad like mai itna dar darke pura shiver kar raha tha tab tak ki kya
+        hoga kya nahi aisa and me jaise room pe aaya mere room mate pucchte hai kya hua kya huab, maine unko bataya wo bhi hasne lage 😂. And fir raj muze side me leke aaya and bolta hai bhai sun
+        Nikita ki agar shaadi hogi na to terese hi hogi ... 😂 Me bola bhai tu kya firse shuru hogaya ... kya hua abhi abhi and tu kisme laga hai ... wo bolta ... mai kucch nahi janta bole
+        bhai bole tu apni jaan jokhim me dalke aaya hai bole uske liye isse jyada aur kya karega bole tu uske liye, mai usse bola sun bhai tu usko kucch batana mat ye wo dar jayegi
+        uska, mai usko aaramse kabhi to bataunga bola ye and maine usko promise karwaya ki wo tuze ye baat kabhi nahi batayega and I think usne apna promise rakha hai pura. \n\n
+        So ye kissa hua tha ussi raat ko bhi tere sath chatting karte waqt mai tuze bataya tha tuze pata hai aaj kya hua hai, tu boli nahi bata, mai bola tu believe nahi karegi, tu boli
+        are bata to ... and tab mai first time bola tha ki jab apan firse milenge na tab batata tuze kyuki ye chat pe batane jaisa kissa nahi hai 😅. Ab tu hi soch itna bada chiz mai chat pe kaise
+        batata to maine khud hi socha ki jab milenge tab isse batayenge ki kya hua hai and tuze kaun kaun log pasand karte hai. So that was the first untold story that I think you never knew
+        happened for you by me 😊.
+
+    </string>
 
     <!-- ==================== Chapter 11 ==================== -->
-    <string name="chapter_eleven_title">Chapter 11 ✨</string>
-    <string name="chapter_eleven_body">Coming soon… this chapter is waiting to be written. 🌙</string>
+    <string name="chapter_eleven_title">Second story that I never told you 💼</string>
+    <string name="chapter_eleven_body">To wo hojane ke baad apne chats to aise chal hi rahi thi but college me kabhi me baat nahi karta tha tuzse muze yaad, hai like in case
+    tu dikh bhi gayi fir bhi kabhi nazar upar nahi hoti thi meri pata nahi kyu 😅. But I think last last 2 3 months hi baki the and placements vagaire aane chalu hone wale the
+        and tu muzse baat kar rahi thi ki yr muze to bohot tension ho raha hai ki mera placement hoga ya nahi, job lagega ya nahi and mai bola tha tuze chinta mat kar
+        tu kafi hushar hai hojayega tera aisi waisi baate chalti reheti thi apni, so baate karte karte ek chiz to amjh me aa gayi thi muze ki tu kafi concerned hai iss chiz
+        ko leke ki tuze job lagegi ki nahi ... but again isme me kucch kar nahi sakta tha. \n\n
+        Ek din hamare dost ne bola hinjewadi ek company me on campus drive chal raha hai to hum 3 4 log the jo waise hi room pe pade rehete the hum boel chalo bhai fir deke aata hai
+        interview apne ko waise bhi kya kaam hai 😅.... to hum log chal pade ... lafda ye hogaya ki hum gaye bike pe and tab bohot jyada dhoop thi ... but jaise taise karke hum phohche
+        koi to bhi ajeeb naam ki company thi but bada office tha, to gaye andar first time kisi company me bola bhai ye to khatarnak atmosphere hai, matlab kitna fresh air and all hota
+        hai company me and hum baithe the wahape 3 4 log the to unhone mera and abhishek ka resume dekha and bola are tum log yaha kyu aaye ho tumhara to bohot striong resume hai tumhe
+        aaramse 8 9 lpa ka package mil sakta hai ye to 3.5 lpa wali drive hai and wo sunke hume bohot accha laga andar se, confidence boost hua and humne bola thanks, but hum experience lene
+        ke liye aaye hai. And then wahape 3 3 ke group me round ho rahe the so hum 3 dost sathme hi gaye and interviewer ne bhi hamara resume and answers aappreciate kiye
+        and bole aap kafi acche strong condidates ho, agar aap chaho to hum aapko abhi 30k salary de sakte hai sidha kal se hi aa jao yahape kaam karne, hum bole sir humari 8 lpa
+        ki expectaions hai to wo bola yes, tumhe aaramse mil sakta hai 8 lpa but abhi humara bhi startup type hai so hum itna jyada fund nahi laga sakte but assure karta hoon ki tum
+        yaha start karoge to tumhe exponential growth milegi and hum sab khush hogaye the and bole the thank you and bole the hum sochte hai. And uske baad wo bole aur suno aap 3 no
+        and aapke aur 3 4 dost honge to unko bhi leke aajana, usually 1 group me rehene wale sabhi bacche acche hote hai to mai unko bhi offer de dunga bole ... and mai sunke itna khush hua
+        na wo chiz 😄. Kyuki mai bola 2 3 din pehele hi Nikita concerned lag rahi thi job ke baare me to mai bola kal uska hi leke aata hoon yahape and usko surprise dunga offer letter.
+        To ye maine bataya nahi kisiko and jane lage hum ghar ab firse jaate waqt bhi kafi danger dhoop to hua kya ... mai to excited tha ... khudke liye to tha hi ... ki at least apni worth to samjhne
+        me madat huyi and second kal tera resume jake deta hoon iske liye excited tha ... but shayad kucch jyada hi dhoop me aaye hum isliye muze dhoop lag gayi 😅. and mai pad gaya ganda wala
+        bimar. Ab uss din bh mai tuzse chat kar raha tha and tuze jan bujkar pucch raha tha job ke koi application aaye kya , kucch hua kya aise, tu bolti thi try kar rahi hoon but abhi tak to
+        kucch nahi, mai bola tension na le jald hi aa jayega. Par scene aisa hogaya me bohot hi jyada bimar pad gaya and muze fever hogaya to mai Raj ko bol raha tha are yr
+        ye fever hogaya, kal Wo Nikita ka resume dene jana tha ab problem hoga .... to wo muze bolta ... are tu thoda sa pagal hai kya ... kal jane ki koi jarurat nahi hai
+        to agle din mai utha tha uss din bhi waisa hi fever tha but mai tayyar hone laga, to Raj muze bohot samjha raha tha, bhai tu aur bimar pad jayega mat jaa ... but maine
+        kucch suna nahi uska ... and me bimar tha so me cab karke gaya ... accha me uss chakkar me tera resume banana bhul hi gaya tha ... fortunately maine cab me
+        apne sath laptop rakha tha so Hinjewadi pohochneme kafi time lagta hai to maine can me hi baithe baithe acchasa resume banaya. And jaise wahape pohocha unhinko
+        mila jinse kal mila tha to unhone welcome kiya and maine bola ki sir meri ek dost hai jo muzse bhi acchi hai programming me, usme maine wo sabkucch dala app, software,
+        websites jo maine banaye the ... maine usme dala ki maine aur isme humne sabkucch sath milkar banaya hai and main idea uska reheta tha ... ab actually ye me teri
+        jyada badhayi karne ke liye nahi kar raha tha but logically kar raha tha kyuki mera selection to already ho chuka tha so tera hone ke liye muze unhe proe karna
+        tha ki tu muzse bhi acchi programmer hai... to unhone bola tha impressive hai then ... to wo bole of course unko bhi le denge hum offer and mai itna khush hogaya wo sunke
+        😄 ... matlab dekh scene kaisa tha isliye nahi ki wo company ekdum best thi ya anything but uss time apan sab log dare huye the ki shayad kisiko lagegi ya nahi so
+        at least kucch bhi nahi hua to last option to bhi ab apne pass hai aisa sochke. Tu believe nahi karegi ... me itna khush hua tha ki literally me bimar tha me bhul hi gaya
+        tha ... and then ghar aane ke baad sachme me jitna bimar tha utna bacha nahi tha ... ye baat bhi sirf raj ko ar 1 2 aur logo ko pata thi bakiyoko maine bola tha aise
+        hi bahar chakkkar marne jaa raha hoon.\n
+        To uss din Raj muze aisa side me lake pucchta, muze bata tu kyu kar raha hai ye sab uske liye ... to mai bola bhai ... tuze accha nahi lag raha hai teri chhoti behen ko
+        job lage to 😂... to wo bolta ... are nahi muze to bohot accha lagega ... but tu itna kucch kyu kar raha hai ... to usko maine uss din baith kar samjhaya tha ... ki sun
+        tuze lag raha hoga ki mai bohot uske picche pagal hoon isliye ye sab kar raha hoon but honestly ... muze kabhi chahiye bhi nahi ki ye sab baate usse pata chale
+        kyuki ... wo hai na better life deserve karti hai ... better dost deserve karti hai ... jo usko itne mile nahi hai ... mai to tuze bhi bolta hoon ,.. tu usko
+        chhoti behen manta hai na ... to tu bhi uski acchese care karna ... kyuki wo bohot saari chize bolti nahi hai ... but sehen karti reheti ... kabhi kabhi muzse baate kar
+        leti wo so usse muze samjhta ki usko kaisa lag raha hoga ... to just jab tak me hoon uske sath I will try ki thoda bohot to kucch kare uske liye ... and maine usko
+        firse promise manga ki please usko kabhi batana mat aaj wali bhi chiz ki mai bimar tha and gaya tha karke ye sab ... and he also kept his promise for this also.\n
+        Usi din shaam ko mai tuzse firse baat kar raha tha ... muze yaad nahi chat pe ya phone pe but maine tuze bataya tha accha sun tuze 1 2 din me 1 surprise mil sakta hai
+        and tu boli thi kya surprise bata ... ab actual surprise ye tha ki tuze offer letter aayega uss company se directly and tu shock hogi ki without interview offer letter kaise
+        aaya and me bass batuanga ki kaisa laga surprise 🤭. So maine tuze tab  kaha tha ki mai tuze bataunga ki kya surprise tha when we will meet...
+        kyuki ye bhi kafi badi story thi yr chat pe kaise batata .... but unfortunately pata nahi kya hua ... unhone tuze select nahi kiya, ki maine tera mail galat dala tha resume me pata nahi but nahi bheja tha I think unhone
+        offer letter otherwise tu to muze batati hi. \n\n
+        So that was my second story jo ki maine tuze kabhi batayi nahi .... but was a small gesture done for you by me ❤️. I know tuze abhi ye stories sunke thoda shock bhi
+        lag raha hoga ... tu believe bhi karegi kya pata nahi because ye sab chize bataneki naubat I think tabhi aayegi jab somehow for some reason apni baat honi band ho jayegi
+        tabhi ye me tuze dene wala hoon ... I hope ye kabhi na ho and me ye diary complete karke bass apne pass hi rakhu for our memories 🤭. Haa to mai keh raha tha tuze lag raha
+        hoga ki ye tabhi se mere picche pada tha aisa sab kar raha tha to ... but nahi ... wo bhi bataunga me aage ki actaully me kya tha jiski wajah se me ye sab kar raha
+        tha and that time mera koi intention aisa nahi tha ki tuze pasand karta hoon vagaire ... to agar to ye diary maine pohocha di hai tuz tak so padh agle chapters tuze
+        samjh jayega.
+
+    </string>
 
     <!-- ==================== Chapter 12 ==================== -->
     <string name="chapter_twelve_title">Chapter 12 ✨</string>

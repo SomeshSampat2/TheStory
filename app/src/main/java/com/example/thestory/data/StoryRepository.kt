@@ -154,6 +154,31 @@ object StoryRepository {
             id = 15,
             titleRes = R.string.chapter_fifteen_title,
             bodyRes = R.string.chapter_fifteen_body
+        ),
+        StoryChapter(
+            id = 16,
+            titleRes = R.string.chapter_sixteen_title,
+            bodyRes = R.string.chapter_sixteen_body
+        ),
+        StoryChapter(
+            id = 17,
+            titleRes = R.string.chapter_seventeen_title,
+            bodyRes = R.string.chapter_seventeen_body
+        ),
+        StoryChapter(
+            id = 18,
+            titleRes = R.string.chapter_eighteen_title,
+            bodyRes = R.string.chapter_eighteen_body
+        ),
+        StoryChapter(
+            id = 19,
+            titleRes = R.string.chapter_nineteen_title,
+            bodyRes = R.string.chapter_nineteen_body
+        ),
+        StoryChapter(
+            id = 20,
+            titleRes = R.string.chapter_twenty_title,
+            bodyRes = R.string.chapter_twenty_body
         )
     )
 

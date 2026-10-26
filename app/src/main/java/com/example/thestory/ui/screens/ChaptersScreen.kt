@@ -98,11 +98,12 @@ private fun ChapterCard(
     index: Int,
     onClick: () -> Unit
 ) {
-    // Staggered entrance: each card floats up a moment after the previous one.
+    // Quick staggered entrance: cap the per-card delay so cards deep in the
+    // list (and cards re-appearing while scrolling) don't fade in late.
     val appear = remember { Animatable(0f) }
     LaunchedEffect(Unit) {
-        delay(index * 110L)
-        appear.animateTo(1f, tween(durationMillis = 700, easing = FastOutSlowInEasing))
+        delay(index.coerceAtMost(5) * 40L)
+        appear.animateTo(1f, tween(durationMillis = 320, easing = FastOutSlowInEasing))
     }
     // Gentle press animation
     val interactionSource = remember { MutableInteractionSource() }
